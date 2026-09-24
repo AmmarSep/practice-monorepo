@@ -1,0 +1,29 @@
+# IDE
+.idea/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+*.iml
+*.iws
+*.ipr
+
+# Other
+.DS_Store
+
