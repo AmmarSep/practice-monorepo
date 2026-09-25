@@ -1,0 +1,22 @@
+# Shared build output
+.build/
+out/
+build/
+target/
+cmake-build-*/
+*.class
+*.o
+*.obj
+*.exe
+*.log
+
+# Local machine and IDE state (shared IntelliJ modules stay versioned)
+.DS_Store
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/sonarlint/
+
+# Python tooling
+__pycache__/
+*.pyc

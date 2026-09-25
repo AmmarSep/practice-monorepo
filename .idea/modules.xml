@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TNOU-Practice-cpp/TNOU-Practice-cpp.iml" filepath="$PROJECT_DIR$/TNOU-Practice-cpp/TNOU-Practice-cpp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TNOU-Practise-Java/TNOU-Practise-Java.iml" filepath="$PROJECT_DIR$/TNOU-Practise-Java/TNOU-Practise-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/daim-Interview-Practise/src/daim-Interview-Practise.iml" filepath="$PROJECT_DIR$/daim-Interview-Practise/src/daim-Interview-Practise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/daim-Interview-Practise/daim-Interview-Practise2.iml" filepath="$PROJECT_DIR$/daim-Interview-Practise/daim-Interview-Practise2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/few-Interview_Practise/few-Interview_Practise.iml" filepath="$PROJECT_DIR$/few-Interview_Practise/few-Interview_Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archive/java/daim-interview-practice/src/daim-interview-practice.iml" filepath="$PROJECT_DIR$/archive/java/daim-interview-practice/src/daim-interview-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archive/java/daim-interview-practice/daim-interview-practice2.iml" filepath="$PROJECT_DIR$/archive/java/daim-interview-practice/daim-interview-practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/archive/java/few-interview-practice/few-interview-practice.iml" filepath="$PROJECT_DIR$/archive/java/few-interview-practice/few-interview-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview/interview.iml" filepath="$PROJECT_DIR$/interview/interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coursework/tnou/java-multimedia/java-multimedia.iml" filepath="$PROJECT_DIR$/coursework/tnou/java-multimedia/java-multimedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coursework/tnou/mixed-labs/mixed-labs.iml" filepath="$PROJECT_DIR$/coursework/tnou/mixed-labs/mixed-labs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/practice-monorepo.iml" filepath="$PROJECT_DIR$/.idea/practice-monorepo.iml" />
     </modules>
   </component>
